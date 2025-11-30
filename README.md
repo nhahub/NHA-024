@@ -88,10 +88,11 @@
 
 ```
 Natiq/
-├── gui_app.py              # Main Streamlit application
-├── model.h5                # Trained deep learning model
-├── labels.json             # Arabic letter labels mapping
-├── requirements.txt        # Python dependencies
+├── gui_app.py             # Main Streamlit application
+├── Model Training.py      # Model training source code        
+├── model.zip              # Trained deep learning model
+├── labels.json            # Arabic letter labels mapping
+├── requirements.txt       # Python dependencies
 ├── start_gui.ps1          # Windows launcher script
 ├── workflow.png           # Project workflow diagram
 └── README.md              # This file
