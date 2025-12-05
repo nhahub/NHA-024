@@ -89,6 +89,7 @@
 ```
 Natiq/
 ├── gui_app.py             # Main Streamlit application
+├──preprocessing.ipynb     # hands cropping
 ├── Model Training.py      # Model training source code        
 ├── model.zip              # Trained deep learning model
 ├── labels.json            # Arabic letter labels mapping
