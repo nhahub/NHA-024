@@ -88,15 +88,15 @@
 
 ```
 Natiq/
-├── gui_app.py             # Main Streamlit application
-├──preprocessing.ipynb     # hands cropping
-├── Model Training.py      # Model training source code        
-├── model.zip              # Trained deep learning model
-├── labels.json            # Arabic letter labels mapping
-├── requirements.txt       # Python dependencies
-├── start_gui.ps1          # Windows launcher script
-├── workflow.png           # Project workflow diagram
-└── README.md              # This file
+├── GUI/                   # Folder containing GUI application files
+├── MobileNet/             # MobileNet model experiments and scripts
+├── resnet/                # ResNet model experiments and scripts
+├── Documentation.docx     # Full project documentation
+├── Preprocessing.ipynb    # Notebook for data preprocessing (hand cropping/preparation)
+├── labels.json            # JSON mapping for Arabic letter labels
+├── requirements.txt       # Python dependencies required to run the project
+├── workflow.png           # Visual diagram of the project workflow
+└── README.md              # Project overview and instructions
 ```
 
 ---
